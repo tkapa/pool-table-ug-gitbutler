@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-var doSomething = new DoSomething();
-doSomething.SayHelloWorld();
+﻿namespace GitButler.Demo;
 
 public class DoSomething
 {
