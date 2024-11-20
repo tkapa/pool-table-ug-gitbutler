@@ -1,4 +1,4 @@
-﻿namespace GitButler.Demo;
+﻿Console.WriteLine("");
 
 public class DoSomething
 {
